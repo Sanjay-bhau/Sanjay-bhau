@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p>Welcome to my page! </p>
 
-I'm Sourabh, a college student and a tech enthusiast. I'm also a Full-Stack developer who likes to work with JavaScript/Typescript, C#, ASP.NET, and other technologies. Always open to collaborating on projects and innovative, disruptive ideas. Let's connect and build something amazing together!
+I'm Sanjay bhau, a college student and a tech enthusiast. I'm also a Full-Stack developer who likes to work with JavaScript/Typescript, C#, ASP.NET, and other technologies. Always open to collaborating on projects and innovative, disruptive ideas. Let's connect and build something amazing together!
 
 <br/>
 
