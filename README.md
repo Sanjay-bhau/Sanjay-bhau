@@ -23,7 +23,7 @@ I'm Sourabh, a college student and a tech enthusiast. I'm also a Full-Stack deve
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Sourabh2112?style=social)](https://www.github.com/Sanjay-bhau)
-[![Gmail Badge](https://img.shields.io/badge/-Sourabh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sourabhsbg01@gmail.com)](mailto:sourabhsbg01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Sourabh-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjaythakur26610@gmail.com)](mailto:sanjaythakur26610@gmail.com)
 
 <br/>
 <br/>
